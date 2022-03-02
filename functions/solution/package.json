@@ -1,0 +1,18 @@
+{
+  "name": "wordle-answer-today",
+  "version": "1.0.0",
+  "description": "Fetches Wordle answer using puppeteer",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bharadwaj Giridhar",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^13.4.1"
+  },
+  "devDependencies": {
+    "puppeteer": "^13.4.1"
+  }
+}
