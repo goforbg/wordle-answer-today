@@ -1,4 +1,5 @@
 ## Wordle Answer Today
+![Wordle Answer Today](image.png)
 
 This is [Wordle Answer Today](https://wordle-answer-today.netlify.app/), a fun and easy way to cheat on Wordle.
 
