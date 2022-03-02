@@ -2,7 +2,7 @@
   "name": "wordle-answer-today",
   "version": "1.0.0",
   "description": "Fetches Wordle answer using puppeteer",
-  "main": "solution.js",
+  "main": "functions/solution/solution.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
